@@ -17,7 +17,7 @@ Seleccioné la opción de prueba gratuita de 30 días para activar GitHub Copilo
 3. Creación del Repositorio
 Ingresé a GitHub y seleccioné la opción "New" para crear un nuevo repositorio.
 Asigné el nombre AI_Project al repositorio.
-Configuré el repositorio como privado.
+Configuré el repositorio como publico.
 Añadí un archivo README.md inicial.
 Hice clic en "Create repository" para finalizar.
 
